@@ -4,9 +4,9 @@
 html {
 	line-height: 1.15;
 	-ms-text-size-adjust: 100%;
-	-webkit-text-size-adjust: 100%
+	-webkit-text-size-adjust: 100%;
     scrollbar-width: none; /* For Firefox */
-    -ms-overflow-style: none; /* For Internet Explorer and Edge */	
+    -ms-overflow-style: none; /* For Internet Explorer and Edge */
 }
 
 html::-webkit-scrollbar {
