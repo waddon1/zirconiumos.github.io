@@ -5,16 +5,19 @@ html {
 	line-height: 1.15;
 	-ms-text-size-adjust: 100%;
 	-webkit-text-size-adjust: 100%;
-    scrollbar-width: none; /* For Firefox */
-    -ms-overflow-style: none; /* For Internet Explorer and Edge */
-}
-
-html::-webkit-scrollbar {
-    width: 0px; /* For Chrome, Safari, and Opera */
 }
 
 body {
 	margin: 0
+}
+
+body {
+    scrollbar-width: none; /* For Firefox */
+    -ms-overflow-style: none; /* For Internet Explorer and Edge */
+}
+
+body::-webkit-scrollbar {
+    width: 0px;
 }
 
 article, aside, details, figcaption, figure, footer, header, main, menu, nav, section {
