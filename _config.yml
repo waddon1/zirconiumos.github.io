@@ -1,6 +1,6 @@
 # Site settings
 title: Salient OS
-description: An Arch based Linux Distribution for Creatives Everywhere :)
+description: An Arch Linux Distribution for Creatives Everywhere :)
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 url: "https://salientos.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
