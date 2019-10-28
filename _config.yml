@@ -18,3 +18,5 @@ github_username:  salientos
 #  id: ""
 
 exclude: ['package.json', 'src' , 'node_modules']
+
+theme: jekyll-theme-hacker
